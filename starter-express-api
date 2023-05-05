@@ -1,0 +1,22 @@
+{
+  "name": "gladcord-server",
+  "version": "1.0.0",
+  "description": "Hello, World!",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start:bundle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyclic-software/starter-express-api/issues"
+  },
+  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
